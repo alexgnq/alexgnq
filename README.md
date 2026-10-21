@@ -6,4 +6,4 @@ I like small tools that make everyday work easier. This is where I keep my perso
 
 ## What I'm building
 
-[Herdr Workspace](https://github.com/alexgnq/herdr-workspace) lets you group repositories into a workspace and use Codex, Claude Code or Copilot across them.
+[Herdr Workspaces](https://github.com/alexgnq/herdr-workspaces) lets you group repositories into a workspace and use Codex, Claude Code or Copilot across them.
